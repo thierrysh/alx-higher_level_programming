@@ -1,1 +1,2 @@
-3TMBVUTaNCG6G71BJjuw34rQqwAsE58cAMBteWw1zxD7
+#!/usr/bin/python3
+print("Best School")
